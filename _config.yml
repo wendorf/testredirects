@@ -1,8 +1,2 @@
 gems:
   - jekyll-redirect-from
-defaults:
-  -
-    scope:
-      path: "subdir2/index.html" # redirect_root_to_here
-    values:
-      redirect_from: "/index.html"
